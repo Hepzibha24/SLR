@@ -139,5 +139,3 @@ This project is licensed under the **MIT License**.
 
 
 
-Would you like me to make this project slightly **more advanced** by including **multiple linear regression** (e.g., predicting math score using reading + writing scores) for a richer project? This would look very professional on GitHub.
-```
